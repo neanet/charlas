@@ -7,7 +7,9 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar 
 
 ### tl;dr No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
 
+## Equipo Facilitador
 
+Tenes alguna pregunta? [Contactanos](https://github.com/neanet/charlas/blob/master/TEAM.md)
 
 
 ## Version Rapida

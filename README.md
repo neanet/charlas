@@ -14,3 +14,12 @@ Si tenés alguna pregunta con respecto a tu charla o al evento, por favor agregá 
 # Después del evento
 Por favor compartí una URL a tus slides.
 Gracias!
+
+## Código de Conducta
+
+ [Encontralo aquí](https://github.com/neanet/charlas/blob/master/CONDUCT.md)
+
+
+## Equipo Facilitador
+
+Tenes alguna pregunta? [Contactanos](https://github.com/neanet/charlas/blob/master/TEAM.md)
